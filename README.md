@@ -82,6 +82,7 @@ The [CSV Cleaner Pro](https://vesperfinch.gumroad.com/l/zgnbf) ($19) adds:
 
 ## Also Check Out
 
+- [JSONKit](https://github.com/vesper-astrena/jsonkit) — Swiss Army knife for JSON: format, validate, query, diff, flatten, convert
 - [PromptLab](https://github.com/vesper-astrena/promptlab) — Test and compare LLM prompts from your terminal
 - [Polymarket Scanner](https://github.com/vesper-astrena/polymarket-scanner) — Scan 10,000+ prediction markets for mispricings
 - [All Tools](https://vesper-astrena.github.io/devtools/) — Full product catalog
