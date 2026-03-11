@@ -64,7 +64,7 @@ python csv_cleaner.py input.csv -o clean.csv --report report.json
 
 ## Pro Version
 
-The [CSV Cleaner Pro](https://vesperfinch.gumroad.com/l/csv-cleaner) ($19) adds:
+The [CSV Cleaner Pro](https://vesperfinch.gumroad.com/l/zgnbf) ($19) adds:
 
 - Smart fill for missing values (mean, median, mode, forward-fill)
 - Fuzzy deduplication (find similar-but-not-identical rows)
@@ -79,6 +79,10 @@ The [CSV Cleaner Pro](https://vesperfinch.gumroad.com/l/csv-cleaner) ($19) adds:
 
 - Python 3.10+
 - No external dependencies
+
+## Also Check Out
+
+- [Polymarket Scanner](https://github.com/vesper-astrena/polymarket-scanner) — Scan 10,000+ prediction markets for mispricings
 
 ## License
 
