@@ -1,5 +1,9 @@
 # CSV Cleaner
 
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Zero Dependencies](https://img.shields.io/badge/dependencies-zero-brightgreen.svg)](#)
+
 Automatically detect and fix data quality issues in CSV files. One command, clean data.
 
 ## Quick Start
